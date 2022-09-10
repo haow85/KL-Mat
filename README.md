@@ -8,3 +8,6 @@ ZeroMat is a cold-start solver for recommender systems invented by Hao Wang and 
 The paper can be found here : https://arxiv.org/abs/2204.13583
 
 To execute the KL-Mat algorithm, simply run the python script.
+
+![MAE](https://user-images.githubusercontent.com/20984794/189467543-f52df6a4-b526-44c9-8174-aa706e2c9358.png)
+![DME](https://user-images.githubusercontent.com/20984794/189467544-6109c96b-4894-4f6b-a683-102097113a96.png)
