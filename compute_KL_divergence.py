@@ -308,7 +308,7 @@ def predict_mf(test_data_dict, total_item_list, u, v):
 
 if __name__ == '__main__':
 
-    input_file = 'ml-1m/ratings.dat'
+    input_file = 'ratings.dat'
 
     user_item_ratings = {}
 
